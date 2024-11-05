@@ -1,0 +1,722 @@
+{
+    "CC": {
+        "basic_info": {
+            "Name": "The Chemours Company",
+            "Sector": "Basic Materials",
+            "Industry": "Specialty Chemicals",
+            "Market Cap": 3071976704,
+            "Current Price": 20.58,
+            "52 Week High": 32.7,
+            "52 Week Low": 15.1,
+            "Average Volume": 1415030
+        },
+        "fundamental_analysis": {
+            "PE Ratio": 27.078947,
+            "Forward PE": 8.26506,
+            "PEG Ratio": 1.96,
+            "Price to Book": 4.1491933,
+            "Dividend Yield": 0.0561,
+            "EPS (TTM)": 0.76,
+            "Revenue Growth": -0.064,
+            "Profit Margin": 0.01988,
+            "Free Cash Flow": -250500000,
+            "Debt to Equity": 584.276,
+            "Return on Equity": 0.14852999,
+            "Operating Margin": 0.08322,
+            "Quick Ratio": 0.961,
+            "Current Ratio": 1.886,
+            "Earnings Growth": "N/A"
+        },
+        "technical_analysis": {
+            "Current Price": 20.579999923706055,
+            "50-day SMA": 18.968199996948243,
+            "200-day SMA": 23.53526207923889,
+            "RSI (14-day)": 58.81383647956844,
+            "MACD": -0.15763524330226275,
+            "MACD Signal": -0.18140237690195654,
+            "Trend": "Neutral",
+            "MACD Analysis": "Bullish",
+            "RSI Analysis": "Neutral"
+        },
+        "risk_assessment": {
+            "Annualized Volatility": 0.6024816599398284,
+            "Beta": 1.6117966797098042,
+            "Value at Risk (95%)": -0.04077927270207859,
+            "Maximum Drawdown": -0.46663452948598444,
+            "Sharpe Ratio": 0.012739545571261666,
+            "Sortino Ratio": 0.012008675004444868
+        },
+        "news": [
+            {
+                "Title": "Chemours (CC) Q3 2024 Earnings Call Transcript",
+                "Publisher": "Motley Fool",
+                "Published": "2024-11-05 00:45:14",
+                "Link": "https://finance.yahoo.com/m/70afb178-c041-3e0d-8d5f-0c4062035999/chemours-%28cc%29-q3-2024.html"
+            },
+            {
+                "Title": "Update: Chemours Shares Jump After Q3 Results Come Ahead of Estimates",
+                "Publisher": "MT Newswires",
+                "Published": "2024-11-05 00:02:46",
+                "Link": "https://finance.yahoo.com/news/chemours-shares-jump-q3-results-183246521.html"
+            },
+            {
+                "Title": "Chemours Surges 17% On The Recent Q3 Results",
+                "Publisher": "GuruFocus.com",
+                "Published": "2024-11-04 20:33:30",
+                "Link": "https://finance.yahoo.com/news/chemours-surges-17-recent-q3-150330061.html"
+            },
+            {
+                "Title": "Chemours (CC) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+                "Publisher": "Zacks",
+                "Published": "2024-11-04 20:00:16",
+                "Link": "https://finance.yahoo.com/news/chemours-cc-q3-earnings-taking-143016880.html"
+            },
+            {
+                "Title": "Chemours (CC) Q3 Earnings and Revenues Top Estimates",
+                "Publisher": "Zacks",
+                "Published": "2024-11-04 17:45:05",
+                "Link": "https://finance.yahoo.com/news/chemours-cc-q3-earnings-revenues-121505631.html"
+            }
+        ]
+    },
+    "FRPT": {
+        "basic_info": {
+            "Name": "Freshpet, Inc.",
+            "Sector": "Consumer Defensive",
+            "Industry": "Packaged Foods",
+            "Market Cap": 7300462080,
+            "Current Price": 150.57,
+            "52 Week High": 154.67,
+            "52 Week Low": 65.805,
+            "Average Volume": 491947
+        },
+        "fundamental_analysis": {
+            "PE Ratio": 295.23532,
+            "Forward PE": 130.93045,
+            "PEG Ratio": 1.96,
+            "Price to Book": 7.6218686,
+            "Dividend Yield": "N/A",
+            "EPS (TTM)": 0.51,
+            "Revenue Growth": 0.283,
+            "Profit Margin": 0.0286,
+            "Free Cash Flow": -145293248,
+            "Debt to Equity": 42.538,
+            "Return on Equity": 0.02589,
+            "Operating Margin": -0.0069999998,
+            "Quick Ratio": 3.554,
+            "Current Ratio": 4.502,
+            "Earnings Growth": "N/A"
+        },
+        "technical_analysis": {
+            "Current Price": 150.57000732421875,
+            "50-day SMA": 137.87319915771485,
+            "200-day SMA": 120.88454956054687,
+            "RSI (14-day)": 59.76632764869881,
+            "MACD": 0.07383059962697303,
+            "MACD Signal": -0.5111885160258357,
+            "Trend": "Bullish",
+            "MACD Analysis": "Bullish",
+            "RSI Analysis": "Neutral"
+        },
+        "risk_assessment": {
+            "Annualized Volatility": 0.3633348617069055,
+            "Beta": 0.8001031937738097,
+            "Value at Risk (95%)": -0.02293020325290318,
+            "Maximum Drawdown": -0.14738858134681665,
+            "Sharpe Ratio": 2.3221602692042036,
+            "Sortino Ratio": 3.3095665929927307
+        },
+        "news": [
+            {
+                "Title": "Analyst Report: Freshpet, Inc.",
+                "Publisher": "Morningstar Research",
+                "Published": "2024-11-05 07:40:17",
+                "Link": "https://finance.yahoo.com/m/b6e54140-9e33-327c-b1f4-3ca195fae8f7/analyst-report%3A-freshpet%2C-inc..html"
+            },
+            {
+                "Title": "Here's Why Freshpet Stock Soared to a 52-Week High Today",
+                "Publisher": "Motley Fool",
+                "Published": "2024-11-05 04:52:38",
+                "Link": "https://finance.yahoo.com/m/1259f9bc-de07-36b3-88a2-8ab299fe1cee/here%27s-why-freshpet-stock.html"
+            },
+            {
+                "Title": "Freshpet (FRPT) Q3 2024 Earnings Call Transcript",
+                "Publisher": "Motley Fool",
+                "Published": "2024-11-05 01:00:26",
+                "Link": "https://finance.yahoo.com/m/df7f5381-4b04-3d8d-a5f1-bf82b6841692/freshpet-%28frpt%29-q3-2024.html"
+            },
+            {
+                "Title": "Why Is Freshpet (FRPT) Stock Rocketing Higher Today",
+                "Publisher": "StockStory",
+                "Published": "2024-11-05 00:40:44",
+                "Link": "https://finance.yahoo.com/news/why-freshpet-frpt-stock-rocketing-191044694.html"
+            },
+            {
+                "Title": "Update: Freshpet Shares Gain After Swing to Q3 Net Income",
+                "Publisher": "MT Newswires",
+                "Published": "2024-11-05 00:16:13",
+                "Link": "https://finance.yahoo.com/news/freshpet-shares-gain-swing-q3-184613950.html"
+            }
+        ]
+    },
+    "VRNA": {
+        "basic_info": {
+            "Name": "Verona Pharma plc",
+            "Sector": "Healthcare",
+            "Industry": "Biotechnology",
+            "Market Cap": 3099122944,
+            "Current Price": 38.15,
+            "52 Week High": 39.38,
+            "52 Week Low": 11.39,
+            "Average Volume": 1029407
+        },
+        "fundamental_analysis": {
+            "PE Ratio": "N/A",
+            "Forward PE": -27.846716,
+            "PEG Ratio": "N/A",
+            "Price to Book": 12.310423,
+            "Dividend Yield": "N/A",
+            "EPS (TTM)": -1.6,
+            "Revenue Growth": "N/A",
+            "Profit Margin": "N/A",
+            "Free Cash Flow": -10483500,
+            "Debt to Equity": 72.617,
+            "Return on Equity": -0.56845003,
+            "Operating Margin": "N/A",
+            "Quick Ratio": 8.445,
+            "Current Ratio": 8.611,
+            "Earnings Growth": "N/A"
+        },
+        "technical_analysis": {
+            "Current Price": 38.150001525878906,
+            "50-day SMA": 30.827899894714356,
+            "200-day SMA": 20.698774962425233,
+            "RSI (14-day)": 73.77622937262916,
+            "MACD": 1.4007186038203585,
+            "MACD Signal": 1.3494837262535473,
+            "Trend": "Bullish",
+            "MACD Analysis": "Bullish",
+            "RSI Analysis": "Overbought"
+        },
+        "risk_assessment": {
+            "Annualized Volatility": 0.5943631020553283,
+            "Beta": 1.5602358051243908,
+            "Value at Risk (95%)": -0.049682041804961954,
+            "Maximum Drawdown": -0.43917929031160974,
+            "Sharpe Ratio": 1.8278342367083626,
+            "Sortino Ratio": 2.378799045437585
+        },
+        "news": [
+            {
+                "Title": "Verona Pharma's Q3 Loss Widens",
+                "Publisher": "MT Newswires",
+                "Published": "2024-11-04 13:52:59",
+                "Link": "https://finance.yahoo.com/news/verona-pharma-apos-q3-loss-082259504.html"
+            },
+            {
+                "Title": "Verona Pharma Reports Third Quarter 2024 Financial Results and Provides Corporate Update",
+                "Publisher": "GlobeNewswire",
+                "Published": "2024-11-04 12:30:00",
+                "Link": "https://finance.yahoo.com/news/verona-pharma-reports-third-quarter-070000243.html"
+            },
+            {
+                "Title": "Verona Pharma PLC (VRNA) Q3 2024 Earnings Report Preview: What To Expect",
+                "Publisher": "GuruFocus.com",
+                "Published": "2024-11-01 18:33:37",
+                "Link": "https://finance.yahoo.com/news/verona-pharma-plc-vrna-q3-130337056.html"
+            },
+            {
+                "Title": "Recent Price Trend in Verona Pharma (VRNA) is Your Friend, Here's Why",
+                "Publisher": "Zacks",
+                "Published": "2024-10-25 18:20:09",
+                "Link": "https://finance.yahoo.com/news/recent-price-trend-verona-pharma-125009916.html"
+            },
+            {
+                "Title": "Zacks Industry Outlook Highlights Exelixis, Blueprint Medicines, CRISPR, Amicus and Verona Pharma",
+                "Publisher": "Zacks",
+                "Published": "2024-10-25 14:29:00",
+                "Link": "https://finance.yahoo.com/news/zacks-industry-outlook-highlights-exelixis-085900682.html"
+            }
+        ]
+    },
+    "RUN": {
+        "basic_info": {
+            "Name": "Sunrun Inc.",
+            "Sector": "Technology",
+            "Industry": "Solar",
+            "Market Cap": 3594523136,
+            "Current Price": 16.08,
+            "52 Week High": 22.26,
+            "52 Week Low": 8.825,
+            "Average Volume": 7711277
+        },
+        "fundamental_analysis": {
+            "PE Ratio": "N/A",
+            "Forward PE": -26.360655,
+            "PEG Ratio": 9.71,
+            "Price to Book": 0.6691635,
+            "Dividend Yield": "N/A",
+            "EPS (TTM)": -6.32,
+            "Revenue Growth": -0.112,
+            "Profit Margin": -0.66365,
+            "Free Cash Flow": -2384768256,
+            "Debt to Equity": 171.97,
+            "Return on Equity": -0.33449,
+            "Operating Margin": -0.24443,
+            "Quick Ratio": 0.928,
+            "Current Ratio": 1.663,
+            "Earnings Growth": 1.173
+        },
+        "technical_analysis": {
+            "Current Price": 16.079999923706055,
+            "50-day SMA": 17.23919994354248,
+            "200-day SMA": 14.620774998664857,
+            "RSI (14-day)": 59.11602268164866,
+            "MACD": -0.6649190102170159,
+            "MACD Signal": -0.9102046624270433,
+            "Trend": "Neutral",
+            "MACD Analysis": "Bullish",
+            "RSI Analysis": "Neutral"
+        },
+        "risk_assessment": {
+            "Annualized Volatility": 0.8616191696534148,
+            "Beta": 2.035741400344168,
+            "Value at Risk (95%)": -0.07207951869388785,
+            "Maximum Drawdown": -0.5319881706836757,
+            "Sharpe Ratio": 0.9198718379564735,
+            "Sortino Ratio": 1.0980287964993045
+        },
+        "news": [
+            {
+                "Title": "Why Solar Energy Stocks Skyrocketed Today",
+                "Publisher": "Motley Fool",
+                "Published": "2024-11-05 02:35:21",
+                "Link": "https://finance.yahoo.com/m/89a52b2e-fb17-352d-892a-b5c0a36ade28/why-solar-energy-stocks.html"
+            },
+            {
+                "Title": "How to Find Strong Oils-Energy Stocks Slated for Positive Earnings Surprises",
+                "Publisher": "Zacks",
+                "Published": "2024-11-04 19:30:10",
+                "Link": "https://finance.yahoo.com/news/strong-oils-energy-stocks-slated-140010409.html"
+            },
+            {
+                "Title": "Sunrun to Report Q3 Earnings: Here's What You Need to Know",
+                "Publisher": "Zacks",
+                "Published": "2024-11-04 18:20:00",
+                "Link": "https://finance.yahoo.com/news/sunrun-report-q3-earnings-heres-125000268.html"
+            },
+            {
+                "Title": "Sunrun (RUN) Expected to Beat Earnings Estimates: Should You Buy?",
+                "Publisher": "Zacks",
+                "Published": "2024-10-31 19:31:48",
+                "Link": "https://finance.yahoo.com/news/sunrun-run-expected-beat-earnings-140148753.html"
+            },
+            {
+                "Title": "Sunrun Announces Appointment of John Trinta to its Board of Directors",
+                "Publisher": "GlobeNewswire",
+                "Published": "2024-10-30 04:07:00",
+                "Link": "https://finance.yahoo.com/news/sunrun-announces-appointment-john-trinta-223700249.html"
+            }
+        ]
+    },
+    "AZTA": {
+        "basic_info": {
+            "Name": "Azenta, Inc.",
+            "Sector": "Healthcare",
+            "Industry": "Medical Instruments & Supplies",
+            "Market Cap": 2196310528,
+            "Current Price": 44.9,
+            "52 Week High": 69.16,
+            "52 Week Low": 40.24,
+            "Average Volume": 558501
+        },
+        "fundamental_analysis": {
+            "PE Ratio": "N/A",
+            "Forward PE": 106.90477,
+            "PEG Ratio": 10.38,
+            "Price to Book": 1.136824,
+            "Dividend Yield": "N/A",
+            "EPS (TTM)": -2.86,
+            "Revenue Growth": 0.041,
+            "Profit Margin": -0.23657,
+            "Free Cash Flow": 35281124,
+            "Debt to Equity": 3.587,
+            "Return on Equity": -0.066350006,
+            "Operating Margin": -0.05806,
+            "Quick Ratio": 3.902,
+            "Current Ratio": 4.777,
+            "Earnings Growth": "N/A"
+        },
+        "technical_analysis": {
+            "Current Price": 44.900001525878906,
+            "50-day SMA": 46.21800018310547,
+            "200-day SMA": 54.32330005645752,
+            "RSI (14-day)": 49.57627776161381,
+            "MACD": -1.3482772198898019,
+            "MACD Signal": -1.568723993115203,
+            "Trend": "Bearish",
+            "MACD Analysis": "Bullish",
+            "RSI Analysis": "Neutral"
+        },
+        "risk_assessment": {
+            "Annualized Volatility": 0.38125231286885725,
+            "Beta": 1.4277369166774996,
+            "Value at Risk (95%)": -0.03326589632658444,
+            "Maximum Drawdown": -0.39534886086283466,
+            "Sharpe Ratio": -0.07992929967056246,
+            "Sortino Ratio": -0.0865971835878014
+        },
+        "news": [
+            {
+                "Title": "Azenta Announces Fiscal 2024 Fourth Quarter and Full Year Earnings Conference Call and Webcast",
+                "Publisher": "PR Newswire",
+                "Published": "2024-11-05 02:35:00",
+                "Link": "https://finance.yahoo.com/news/azenta-announces-fiscal-2024-fourth-210500317.html"
+            },
+            {
+                "Title": "Azenta Announces the Addition of Three New Independent Directors Effective Immediately and New Initiative to Drive Value",
+                "Publisher": "PR Newswire",
+                "Published": "2024-11-04 18:30:00",
+                "Link": "https://finance.yahoo.com/news/azenta-announces-addition-three-independent-130000688.html"
+            },
+            {
+                "Title": "Azenta Obtains Regulatory Approval for Clinical Long-Read Whole Genome Sequencing Test",
+                "Publisher": "PR Newswire",
+                "Published": "2024-10-31 01:35:00",
+                "Link": "https://finance.yahoo.com/news/azenta-obtains-regulatory-approval-clinical-200500173.html"
+            },
+            {
+                "Title": "AZENTA ANNOUNCES APPOINTMENT OF JOHN P. MAROTTA AS CEO",
+                "Publisher": "PR Newswire",
+                "Published": "2024-09-04 17:30:00",
+                "Link": "https://finance.yahoo.com/news/azenta-announces-appointment-john-p-120000970.html"
+            },
+            {
+                "Title": "GENEWIZ from Azenta Life Sciences Celebrates 25 Years of Advancing Scientific Discoveries at GENEWIZ Week Event",
+                "Publisher": "PR Newswire",
+                "Published": "2024-08-13 01:35:00",
+                "Link": "https://finance.yahoo.com/news/genewiz-azenta-life-sciences-celebrates-200500609.html"
+            }
+        ]
+    },
+    "BE": {
+        "basic_info": {
+            "Name": "Bloom Energy Corporation",
+            "Sector": "Industrials",
+            "Industry": "Electrical Equipment & Parts",
+            "Market Cap": 2468582912,
+            "Current Price": 10.82,
+            "52 Week High": 18.14,
+            "52 Week Low": 8.412,
+            "Average Volume": 4863028
+        },
+        "fundamental_analysis": {
+            "PE Ratio": "N/A",
+            "Forward PE": 27.74359,
+            "PEG Ratio": 0.41,
+            "Price to Book": 5.817204,
+            "Dividend Yield": "N/A",
+            "EPS (TTM)": -1.29,
+            "Revenue Growth": 0.115,
+            "Profit Margin": -0.21365999,
+            "Free Cash Flow": -394037632,
+            "Debt to Equity": 385.631,
+            "Return on Equity": -0.51063,
+            "Operating Margin": -0.06888,
+            "Quick Ratio": 3.071,
+            "Current Ratio": 4.651,
+            "Earnings Growth": "N/A"
+        },
+        "technical_analysis": {
+            "Current Price": 10.819999694824219,
+            "50-day SMA": 10.435399951934814,
+            "200-day SMA": 11.591999969482423,
+            "RSI (14-day)": 54.186044190624045,
+            "MACD": -0.12279864861324086,
+            "MACD Signal": -0.21436302106172836,
+            "Trend": "Neutral",
+            "MACD Analysis": "Bullish",
+            "RSI Analysis": "Neutral"
+        },
+        "risk_assessment": {
+            "Annualized Volatility": 0.7114935762435561,
+            "Beta": 2.434447598033049,
+            "Value at Risk (95%)": -0.06983998700137489,
+            "Maximum Drawdown": -0.4682352963615866,
+            "Sharpe Ratio": 0.423540381763454,
+            "Sortino Ratio": 0.4519207276571791
+        },
+        "news": [
+            {
+                "Title": "Constellation Energy Corporation (CEG) Q3 Earnings and Revenues Top Estimates",
+                "Publisher": "Zacks",
+                "Published": "2024-11-04 18:30:04",
+                "Link": "https://finance.yahoo.com/news/constellation-energy-corporation-ceg-q3-130004364.html"
+            },
+            {
+                "Title": "Election 2024: Harris, Trump agree on cannabis policy",
+                "Publisher": "Yahoo Finance Video",
+                "Published": "2024-11-02 02:35:32",
+                "Link": "https://finance.yahoo.com/video/election-2024-harris-trump-agree-210532274.html"
+            },
+            {
+                "Title": "Earnings Preview: Bloom Energy (BE) Q3 Earnings Expected to Decline",
+                "Publisher": "Zacks",
+                "Published": "2024-10-31 19:31:43",
+                "Link": "https://finance.yahoo.com/news/earnings-preview-bloom-energy-q3-140143213.html"
+            },
+            {
+                "Title": "Is Bloom Energy (BE) The Best Industrial Stock to Buy According to Analysts?",
+                "Publisher": "Insider Monkey",
+                "Published": "2024-10-31 14:05:20",
+                "Link": "https://finance.yahoo.com/news/bloom-energy-best-industrial-stock-083520392.html"
+            },
+            {
+                "Title": "Bloom Energy (BE) Stock Declines While Market Improves: Some Information for Investors",
+                "Publisher": "Zacks",
+                "Published": "2024-10-30 03:30:20",
+                "Link": "https://finance.yahoo.com/news/bloom-energy-stock-declines-while-220020903.html"
+            }
+        ]
+    },
+    "GTLS": {
+        "basic_info": {
+            "Name": "Chart Industries, Inc.",
+            "Sector": "Industrials",
+            "Industry": "Specialty Industrial Machinery",
+            "Market Cap": 6054773760,
+            "Current Price": 141.43,
+            "52 Week High": 171.68,
+            "52 Week Low": 101.6,
+            "Average Volume": 746911
+        },
+        "fundamental_analysis": {
+            "PE Ratio": 40.178974,
+            "Forward PE": 11.554738,
+            "PEG Ratio": 0.56,
+            "Price to Book": 2.0015283,
+            "Dividend Yield": "N/A",
+            "EPS (TTM)": 3.52,
+            "Revenue Growth": 0.183,
+            "Profit Margin": 0.04638,
+            "Free Cash Flow": 461837504,
+            "Debt to Equity": 127.04,
+            "Return on Equity": 0.06937,
+            "Operating Margin": 0.1696,
+            "Quick Ratio": 0.911,
+            "Current Ratio": 1.273,
+            "Earnings Growth": "N/A"
+        },
+        "technical_analysis": {
+            "Current Price": 141.42999267578125,
+            "50-day SMA": 121.95759979248047,
+            "200-day SMA": 137.61340007781982,
+            "RSI (14-day)": 73.56804341189974,
+            "MACD": 1.7831661967212682,
+            "MACD Signal": 0.6774946906063971,
+            "Trend": "Neutral",
+            "MACD Analysis": "Bullish",
+            "RSI Analysis": "Overbought"
+        },
+        "risk_assessment": {
+            "Annualized Volatility": 0.4938463556264136,
+            "Beta": 1.9114256048073353,
+            "Value at Risk (95%)": -0.043804485300315124,
+            "Maximum Drawdown": -0.36783242583315884,
+            "Sharpe Ratio": 0.5463764716348093,
+            "Sortino Ratio": 0.5427016944116128
+        },
+        "news": [
+            {
+                "Title": "Analyst Report: Chart Industries, Inc.",
+                "Publisher": "Morningstar Research",
+                "Published": "2024-11-04 06:40:54",
+                "Link": "https://finance.yahoo.com/m/9b0236d1-a650-3d78-8551-47568358c308/analyst-report%3A-chart.html"
+            },
+            {
+                "Title": "Chart Industries Third Quarter 2024 Earnings: Misses Expectations",
+                "Publisher": "Simply Wall St.",
+                "Published": "2024-11-02 18:18:01",
+                "Link": "https://finance.yahoo.com/news/chart-industries-third-quarter-2024-124801542.html"
+            },
+            {
+                "Title": "Chart Industries Inc (GTLS) Q3 2024 Earnings Call Highlights: Record Sales and Strategic Growth ...",
+                "Publisher": "GuruFocus.com",
+                "Published": "2024-11-02 12:31:26",
+                "Link": "https://finance.yahoo.com/news/chart-industries-inc-gtls-q3-070126693.html"
+            },
+            {
+                "Title": "Q3 2024 Chart Industries Inc Earnings Call",
+                "Publisher": "Thomson Reuters StreetEvents",
+                "Published": "2024-11-02 11:06:01",
+                "Link": "https://finance.yahoo.com/news/q3-2024-chart-industries-inc-053601964.html"
+            },
+            {
+                "Title": "Update: Chart Industries Shares Rise After Q3 Adjusted Earnings, Sales Increase",
+                "Publisher": "MT Newswires",
+                "Published": "2024-11-01 20:11:06",
+                "Link": "https://finance.yahoo.com/news/chart-industries-shares-rise-q3-144106393.html"
+            }
+        ]
+    },
+    "IRTC": {
+        "basic_info": {
+            "Name": "iRhythm Technologies, Inc.",
+            "Sector": "Healthcare",
+            "Industry": "Medical Devices",
+            "Market Cap": 2548909312,
+            "Current Price": 81.44,
+            "52 Week High": 124.115,
+            "52 Week Low": 55.92,
+            "Average Volume": 584688
+        },
+        "fundamental_analysis": {
+            "PE Ratio": "N/A",
+            "Forward PE": -44.994476,
+            "PEG Ratio": "N/A",
+            "Price to Book": 35.50131,
+            "Dividend Yield": "N/A",
+            "EPS (TTM)": -4.27,
+            "Revenue Growth": 0.184,
+            "Profit Margin": -0.26900998,
+            "Free Cash Flow": -43469752,
+            "Debt to Equity": 1024.666,
+            "Return on Equity": -1.03344,
+            "Operating Margin": -0.069359995,
+            "Quick Ratio": 5.988,
+            "Current Ratio": 6.273,
+            "Earnings Growth": "N/A"
+        },
+        "technical_analysis": {
+            "Current Price": 81.44000244140625,
+            "50-day SMA": 69.45610015869141,
+            "200-day SMA": 93.3982751083374,
+            "RSI (14-day)": 77.38371322961001,
+            "MACD": 2.733969039465805,
+            "MACD Signal": 1.3322259017229476,
+            "Trend": "Neutral",
+            "MACD Analysis": "Bullish",
+            "RSI Analysis": "Overbought"
+        },
+        "risk_assessment": {
+            "Annualized Volatility": 0.5573205247477379,
+            "Beta": 1.3705546132389093,
+            "Value at Risk (95%)": -0.054594314763279764,
+            "Maximum Drawdown": -0.5383059670493605,
+            "Sharpe Ratio": 0.24837758399022397,
+            "Sortino Ratio": 0.25268497498576714
+        },
+        "news": [
+            {
+                "Title": "Here\u2019s Why iRhythm Technologies (IRTC) Slid in Q3",
+                "Publisher": "Insider Monkey",
+                "Published": "2024-11-01 18:19:24",
+                "Link": "https://finance.yahoo.com/news/why-irhythm-technologies-irtc-slid-124924435.html"
+            },
+            {
+                "Title": "iRhythm Technologies, Inc. (NASDAQ:IRTC) Just Reported, And Analysts Assigned A US$101 Price Target",
+                "Publisher": "Simply Wall St.",
+                "Published": "2024-11-01 18:18:51",
+                "Link": "https://finance.yahoo.com/news/irhythm-technologies-inc-nasdaq-irtc-124851355.html"
+            },
+            {
+                "Title": "FDA clears iRhythm\u2019s second 510(k) in response to warning letter",
+                "Publisher": "MedTech Dive",
+                "Published": "2024-11-01 17:15:30",
+                "Link": "https://finance.yahoo.com/m/921364ec-e5c1-390e-a046-f8c499005e60/fda-clears-irhythm%E2%80%99s-second.html"
+            },
+            {
+                "Title": "iRhythm Technologies Inc (IRTC) Q3 2024 Earnings Call Highlights: Strong Revenue Growth Amid ...",
+                "Publisher": "GuruFocus.com",
+                "Published": "2024-10-31 12:46:18",
+                "Link": "https://finance.yahoo.com/news/irhythm-technologies-inc-irtc-q3-071618021.html"
+            },
+            {
+                "Title": "IRhythm Technologies (IRTC) Reports Q3 Loss, Tops Revenue Estimates",
+                "Publisher": "Zacks",
+                "Published": "2024-10-31 04:05:07",
+                "Link": "https://finance.yahoo.com/news/irhythm-technologies-irtc-reports-q3-223507546.html"
+            }
+        ]
+    },
+    "BBWI": {
+        "basic_info": {
+            "Name": "Bath & Body Works, Inc.",
+            "Sector": "Consumer Cyclical",
+            "Industry": "Specialty Retail",
+            "Market Cap": 6853823488,
+            "Current Price": 31.28,
+            "52 Week High": 52.99,
+            "52 Week Low": 26.21,
+            "Average Volume": 5493273
+        },
+        "fundamental_analysis": {
+            "PE Ratio": 7.592233,
+            "Forward PE": 8.786517,
+            "PEG Ratio": 1.77,
+            "Price to Book": "N/A",
+            "Dividend Yield": 0.0277,
+            "EPS (TTM)": 4.12,
+            "Revenue Growth": -0.021,
+            "Profit Margin": 0.1269,
+            "Free Cash Flow": 629124992,
+            "Debt to Equity": "N/A",
+            "Return on Equity": "N/A",
+            "Operating Margin": 0.11991999,
+            "Quick Ratio": 0.441,
+            "Current Ratio": 1.113,
+            "Earnings Growth": 0.581
+        },
+        "technical_analysis": {
+            "Current Price": 31.280000686645508,
+            "50-day SMA": 30.16980007171631,
+            "200-day SMA": 39.41227752685547,
+            "RSI (14-day)": 50.835791599079606,
+            "MACD": -0.3149171516055489,
+            "MACD Signal": -0.26774600661049885,
+            "Trend": "Neutral",
+            "MACD Analysis": "Bearish",
+            "RSI Analysis": "Neutral"
+        },
+        "risk_assessment": {
+            "Annualized Volatility": 0.42244346913345077,
+            "Beta": 1.2499430727713434,
+            "Value at Risk (95%)": -0.03799655791183096,
+            "Maximum Drawdown": -0.4804727239621294,
+            "Sharpe Ratio": 0.19693635783848298,
+            "Sortino Ratio": 0.19970093465109098
+        },
+        "news": [
+            {
+                "Title": "Bath & Body Works' (NYSE:BBWI) earnings growth rate lags the 17% CAGR delivered to shareholders",
+                "Publisher": "Simply Wall St.",
+                "Published": "2024-11-02 17:36:46",
+                "Link": "https://finance.yahoo.com/news/bath-body-works-nyse-bbwi-120646808.html"
+            },
+            {
+                "Title": "Bath & Body Works Says Bonjour to Emily in Paris Fans With New Holiday Partnership",
+                "Publisher": "PR Newswire",
+                "Published": "2024-09-30 18:33:00",
+                "Link": "https://finance.yahoo.com/news/bath-body-works-says-bonjour-130300371.html"
+            },
+            {
+                "Title": "Bath & Body Works Announces Julie Rosen, President, Retail, Steps Down",
+                "Publisher": "PR Newswire",
+                "Published": "2024-09-26 02:00:00",
+                "Link": "https://finance.yahoo.com/news/bath-body-works-announces-julie-203000044.html"
+            },
+            {
+                "Title": "Amentum Set to Join S&P 500; Bath & Body Works to Join S&P SmallCap 600",
+                "Publisher": "PR Newswire",
+                "Published": "2024-09-25 03:43:00",
+                "Link": "https://finance.yahoo.com/news/amentum-set-join-p-500-221300668.html"
+            },
+            {
+                "Title": "Why Bath & Body Works, Inc. (NYSE:BBWI) Could Be Worth Watching",
+                "Publisher": "Simply Wall St.",
+                "Published": "2024-09-22 19:25:38",
+                "Link": "https://finance.yahoo.com/news/why-bath-body-works-inc-135538046.html"
+            }
+        ]
+    }
+}

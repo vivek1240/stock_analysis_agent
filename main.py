@@ -34,7 +34,8 @@ from reports import (
 app = FastAPI()
 
 # Set your OpenAI API key securely
-os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("OPENAI_API_KEY")
+
 if not openai.api_key:
     raise Exception("OpenAI API key not set. Please set the OPENAI_API_KEY environment variable.")
 
@@ -96,16 +97,7 @@ async def get_top_stocks():
             "content": function_response,
         })
 
-        # Now, ask GPT-4 to map company names to ticker symbols
         # Prepare the prompt
-        # mapping_prompt = (
-        #     f"Given the following list of company names: {top_companies}, "
-        #     "please provide their corresponding ticker symbols. "
-        #     "Output the result strictly in the format of a dictionary, "
-        #     "where the key is the company name and the value is its ticker symbol."
-        #     "Except above defined format, nothing else should be included in the output."
-        #     "Don't provide any comments."
-        # )
         mapping_prompt = (
                         f"Given the following list of company names: {top_companies}, "
                         "please provide their corresponding ticker symbols. "
@@ -145,7 +137,7 @@ async def get_top_stocks():
 
 
 
-# Endpoint 1: Process Stocks and Generate Reports
+# Endpoint 2: Process Stocks and Generate Reports
 @app.post("/process_stocks")
 def process_stocks(company_to_ticker: Dict[str, str] = Body(...)):
     # Extract tickers from the dictionary
@@ -191,7 +183,7 @@ def process_stocks(company_to_ticker: Dict[str, str] = Body(...)):
     
     return reports  # Return the report details for each ticker symbol
 
-# Endpoint 2: Analyze Reports and Identify Best-Performing Stock
+# Endpoint 3: Analyze Reports and Identify Best-Performing Stock
 @app.post("/analyze_reports")
 def analyze_reports():
     # Read reports from the reports directory
@@ -206,15 +198,17 @@ def analyze_reports():
 # Main Workflow remains unchanged for backward compatibility
 def main():
     # Define a mapping from company names to tickers
+    # These Hard Coded values are just to test the main
+    # We don't utilise these when we execute the endpoints -- Take it Just as a sample demo 
     company_to_ticker = {
-        "Yahoo": "YHOO",
-        "Apple": "AAPL",
-        "Tesla": "TSLA",
-        "Netflix": "NFLX",
-        "NVIDIA": "NVDA",
-        "Amazon": "AMZN"
-    }
-    
+       "Yahoo": "YHOO",
+       "Apple": "AAPL",
+       "Tesla": "TSLA",
+       "Netflix": "NFLX",
+       "NVIDIA": "NVDA",
+       "Amazon": "AMZN"
+   }
+
     # Extract tickers from the dictionary
     tickers = extract_tickers(company_to_ticker)
     if not tickers:
@@ -263,5 +257,5 @@ def main():
 
 if __name__ == "__main__":
     # Uncomment the following line to run the FastAPI app
-    # uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=8000)        
     main()  # Or comment this line if you are running the FastAPI app

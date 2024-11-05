@@ -188,11 +188,6 @@ def identify_best_stock_with_llm(reports: dict) -> str:
         )
 
         llm_response = response.choices[0].message.content.strip()
-        # reports_directory = create_reports_directory()
-
-        # Save reports as CSV files
-        # save_reports_as_csv(reports, reports_directory)
-        # print(f"\nAll reports have been saved to the '{reports_directory}' directory.")
         return llm_response
 
     except Exception as e:
